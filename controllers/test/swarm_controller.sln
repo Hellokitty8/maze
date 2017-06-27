@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "swarm_controller", "swarm_controller.pyproj", "{8176B9F1-41C1-4F14-85FC-0B5FF16A54E2}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://thomasalm89.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = swarm_controller.pyproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://thomasalm89.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8176B9F1-41C1-4F14-85FC-0B5FF16A54E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8176B9F1-41C1-4F14-85FC-0B5FF16A54E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8176B9F1-41C1-4F14-85FC-0B5FF16A54E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8176B9F1-41C1-4F14-85FC-0B5FF16A54E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

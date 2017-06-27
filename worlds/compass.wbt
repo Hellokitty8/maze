@@ -1,0 +1,180 @@
+#VRML_SIM V8.5 utf8
+WorldInfo {
+  info [
+    "Example/Test for the Compass node"
+  ]
+  title "Compass example"
+  basicTimeStep 8
+}
+Viewpoint {
+  orientation -0.51805228 -0.66804293 -0.5341727 1.9813044
+  position -0.69941191 2.4563971 0.020694822
+}
+PointLight {
+  location 0 0.3 0
+}
+Background {
+  skyColor [
+    0.4 0.7 1
+  ]
+}
+RectangleArena {
+  translation 0 0 0.036385
+  floorSize 1.5 1.5
+  floorTileSize 0.25 0.25
+}
+Wall {
+  translation -0.23321153 0 0.32847257
+  rotation 0 -1 0 3.1415927
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation 0.60840948 1.7763568e-15 0.025740617
+  rotation 0 1 0 4.7123897
+  size 1.31 0.2 0.03
+  wallTextureUrl [
+    "textures/asphalt.jpg"
+  ]
+}
+Wall {
+  translation 0.2645067 1.7763568e-15 0.52122747
+  rotation 0 1 0 4.7123897
+  size 0.3 0.2 0.03
+}
+Wall {
+  translation -0.2350036 1.7763568e-15 -0.36793209
+  rotation 0 -1 0 3.1415927
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation -0.056828812 1.7763568e-15 -0.19625784
+  rotation 0 -1 0 3.1415927
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation 0.25621617 1.7763568e-15 -0.54463299
+  rotation 0 -1 0 1.5707956
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation -0.069487004 0 0.50893831
+  rotation 0 -1 0 3.1415927
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation 0.061091174 1.7763568e-15 0.23733737
+  rotation 0 -1 0 1.5707956
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation -0.52384653 0 0.49011362
+  rotation 0 -1 0 3.1415927
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation -0.056828812 1.7763568e-15 -0.19625784
+  rotation 0 -1 0 3.1415927
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation 0.02848534 1.7763568e-15 -0.40462293
+  rotation 0 -1 0 1.5707956
+  size 0.45 0.2 0.03
+}
+Wall {
+  translation -0.4661191 1.7763568e-15 -0.39871048
+  rotation 0 -1 0 1.5707956
+  size 0.45 0.2 0.03
+}
+Wall {
+  translation -0.4565974 1.7763568e-15 0.28159378
+  rotation 0 -1 0 1.5707956
+  size 0.45 0.2 0.03
+}
+Wall {
+  translation 0.23713439 1.7763568e-15 -0.15064783
+  rotation 0 -1 0 1.5707956
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation -0.3060351 1.7763568e-15 -0.030347577
+  rotation 0 -1 0 1.5707956
+  size 0.69 0.2 0.03
+  wallTextureUrl [
+    "textures/snow.jpg"
+  ]
+}
+Wall {
+  translation -0.065111608 1.7763568e-15 0.58738847
+  rotation 0 -1 0 1.5707956
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation 0.41423181 1.7763568e-15 -0.3049304
+  rotation 0 -1 0 1.5707956
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation 0.43240043 1.7763568e-15 0.1708422
+  rotation 0 -1 0 1.5707956
+  size 0.45 0.2 0.03
+}
+Wall {
+  translation -0.13177634 1.7763568e-15 0.083257601
+  rotation 0 -1 0 1.5707956
+  size 0.17 0.2 0.03
+}
+Wall {
+  translation -0.0080154043 1.7763568e-15 0.66765384
+  rotation 0 1 0 3.1415927
+  size 1.25 0.2 0.03
+}
+Wall {
+  translation -0.61864785 1.7763568e-15 0.054099367
+  rotation 0 1 0 4.7123897
+  size 1.25 0.2 0.03
+}
+Wall {
+  translation 0.05368266 1.7763568e-15 0.15455705
+  rotation 0 1 0 6.2831853
+  size 0.4 0.2 0.03
+}
+Wall {
+  translation 0.42133987 1.7763568e-15 -0.22753789
+  rotation 0 1 0 6.2831853
+  size 0.4 0.2 0.03
+}
+Wall {
+  translation 0.3512601 1.7763568e-15 0.38548336
+  rotation 0 1 0 6.2831853
+  size 0.2 0.2 0.03
+}
+Wall {
+  translation 0.074729311 1.7763568e-15 -0.61743252
+  rotation 0 1 0 3.1415927
+  size 1.1 0.2 0.03
+}
+E-puck {
+  hidden translation_1 -0.026044849 0.020004511 -3.6777952e-06
+  hidden rotation_1 0.99999955 -0.00093381514 -0.00013568649 -2.9888415
+  hidden translation_2 0.026045669 0.020005433 3.0755053e-06
+  hidden rotation_2 0.99999811 -0.00087045552 -0.0017394231 -0.87796716
+  translation -0.35799606 -2.0227395e-05 0.2319006
+  rotation 0.14267175 -0.98959371 -0.018683018 -0.020572305
+  controller "test"
+  turretSlot [
+    DistanceSensor {
+    }
+    GPS {
+      translation -0.05 0 0
+    }
+    Compass {
+    }
+  ]
+}
+PointLight {
+  location 0 0.3 0
+}
+PointLight {
+  location 0 0.3 0
+}
